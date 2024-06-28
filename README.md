@@ -1,4 +1,4 @@
-updtated by
+updated by
 # Rakesh Rawat
 # Node.js
 
